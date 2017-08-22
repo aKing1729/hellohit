@@ -2,7 +2,8 @@
 public class HelloJava {
 
 	public static void main(String[] args) {
-System.out.println("Hello java");
+      //greating to all
+		System.out.println("Hello java");
 	}
 
 }
